@@ -7,3 +7,5 @@ p {
 #h1:hover::after{
 content:"Winner";
 }
+#h3:active::after{
+  content:"goals";}
